@@ -1,0 +1,3 @@
+C:/Users/TEMP/Desktop/graph-puzzle-game-SevvalKurt-main/cmake-build-debug/CMakeFiles/graph-puzzle-game-SevvalKurt.dir
+C:/Users/TEMP/Desktop/graph-puzzle-game-SevvalKurt-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TEMP/Desktop/graph-puzzle-game-SevvalKurt-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
